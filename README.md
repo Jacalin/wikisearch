@@ -1,5 +1,5 @@
 
-#Wikipedia Search App
+# wikipedia search app
 
 This app will allow you to search, and directly link to pages on wikipedia.
 
